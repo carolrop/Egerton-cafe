@@ -1,0 +1,61 @@
+.form-elegant .font-small {
+  font-size: 20rem; }
+
+.form-elegant .z-depth-1a {
+  -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+  box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+
+.form-elegant .z-depth-1-half,
+.form-elegant .btn:hover {
+  -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+  box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+  .h4text-centermb-4{
+  	color: blue;
+  }
+
+}
+.logincountainer{
+	
+	
+	max-width: : 600px;
+	margin: 50px auto 0px;
+	color: green;
+	margin-left: 300px
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-style: solid;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 40px;
+
+	
+	
+}
+.grey-text {
+	font-size: 30;
+}.logincountainer p#werew{
+	
+	font-size: 30px;
+}
+.logincountainer input{
+	
+	height: 30px;
+	width: 300px;}
+
+.logincountainer label{
+	
+	height: 30px;
+	font-size: 30px;
+}
+.logincountainer button {
+margin-left: 100px; 
+margin-bottom: 100px;                                                                                                                                                                                                                                                                                                  
+}
+
+
+
+	
+
+
+
+
